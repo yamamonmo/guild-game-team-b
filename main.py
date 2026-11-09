@@ -13,7 +13,7 @@ ROOMS = {
 
 ERRORS = {
     "no_exit": "You cannot go {direction} from here. Look at the room description for the exits.",
-    "no_money": "{price}You don't have enough money. Check your balance with 'balance' and try again.",,
+    "no_money": "{price}You don't have enough money. Check your balance with 'balance' and try again.",
     "already_have": "{item}You already have that item. Try 'help' to see the list of available items.",
     "bag_full": "{limit}Your bag is full. Try empty your bag."
 }
